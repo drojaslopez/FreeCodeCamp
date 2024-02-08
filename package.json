@@ -1,16 +1,22 @@
 {
-	"name": "Free-Code-Camp",
-	"author": "Daniel Rojas Lopez",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/drojaslopez/FreeCodeCamp.git"
-	}
-	
+  "name": "free-code-camp",
+  "author": "Daniel Rojas Lopez",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drojaslopez/FreeCodeCamp.git"
+  },
+  "description": "��#\u0000 \u0000F\u0000r\u0000e\u0000e\u0000C\u0000o\u0000d\u0000e\u0000C\u0000a\u0000m\u0000p\u0000\r\u0000 \u0000",
+  "bugs": {
+    "url": "https://github.com/drojaslopez/FreeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/drojaslopez/FreeCodeCamp#readme",
+  "version": "1.0.0",
+  "license": "ISC"
 }
